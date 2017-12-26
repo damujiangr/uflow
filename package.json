@@ -1,0 +1,23 @@
+{
+  "name": "uflow",
+  "version": "0.0.1",
+  "description": "test",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damujiangr/uflow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/damujiangr/uflow/issues"
+  },
+  "homepage": "https://github.com/damujiangr/uflow#readme",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
